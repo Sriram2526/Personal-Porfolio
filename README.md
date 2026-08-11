@@ -14,8 +14,8 @@ A personal portfolio website created using HTML and CSS to showcase my profile, 
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Purpose
 
